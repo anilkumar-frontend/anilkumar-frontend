@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/ZcsTRnj/github-header-image-4.png))
+![MasterHead](https://i.ibb.co/ZcsTRnj/github-header-image-4.png)
 <h1 align="center">Hi 👋, I'm Anil Kumar</h1>
 <h3 align="center">A passionate Front-end developer from India</h3>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [anilkumar(anilthammathaka.netlify.com)
+- 👨‍💻 All of my projects are available at [anilthammathaka](anilthammathaka.netlify.com)
 
 - 💬 Ask me about  **React , JavaScript, Python , HTML, CSS**
 
