@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [anilthammathaka](anilthammathaka.netlify.com)
+- 👨‍💻 All of my projects are available at [anilthammathaka](https://anilthammathaka.netlify.app/)
 
 - 💬 Ask me about  **React , JavaScript, Python , HTML, CSS**
 
